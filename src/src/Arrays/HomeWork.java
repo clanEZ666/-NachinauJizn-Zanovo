@@ -88,6 +88,7 @@ public class HomeWork {
                 result.append(", ");
             }
 
+
         }
         result.append("]");
         System.out.println(result.toString());
